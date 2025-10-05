@@ -3,3 +3,5 @@ CitySync is a cross-platform applications that visualizes key urban challenges s
 
 # Application available for testing:
 https://garb-trait-64248192.figma.site
+
+This web view emulates the display of mobile view
